@@ -1,7 +1,7 @@
-##README FILE
+README FILE
 By: Brenton Cromwell
 
-##Required Libraries
+Required Libraries
 -dplyr (but this will be loaded for you by the scripts)
 
 ##General outline of the script (There are extensive comments as well)
